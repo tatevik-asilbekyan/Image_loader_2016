@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#fc0000</color>
+    <color name="blue">#0e60a9</color>
+    <color name="shape_yellow_center">#f6ca45</color>
+
+    <array name="progressbar_colors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/shape_yellow_center</item>
+    </array>
+</resources>
